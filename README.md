@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi, I'm Govind
 
-<!--
-**Govind799/Govind799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable systems and solving real-world problems using Full Stack technologies and Artificial Intelligence.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Engineering Focus
+
+* Designing scalable web applications
+* Building end-to-end systems
+* Applying AI to automate workflows
+* Writing clean, maintainable, and efficient code
+* Problem solving using Data Structures & Algorithms
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+Python • JavaScript • C • C++ • SQL
+
+### Frontend
+
+HTML5 • CSS3 • React.js • Tailwind CSS • Bootstrap
+
+### Backend
+
+Node.js • Express.js • Django • Flask • REST APIs
+
+### Databases
+
+MongoDB • MySQL • PostgreSQL
+
+### AI / ML
+
+NumPy • Pandas • Scikit-learn • TensorFlow (Basics) • NLP
+
+### Tools
+
+Git • GitHub • Linux • VS Code • Postman • Docker (Basics)
+
+---
+
+## 🏗️ Engineering Work
+
+* Full Stack Web Applications
+* RESTful API Design
+* AI-powered Automation Tools
+* Data Processing Pipelines
+* Scalable Backend Systems
+
+---
+
+## 🧩 Problem Solving
+
+* Data Structures & Algorithms
+* System Design Fundamentals
+* Optimization & Performance Tuning
+* Debugging Complex Systems
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/Govind799

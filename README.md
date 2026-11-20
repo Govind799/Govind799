@@ -4,11 +4,7 @@ Software Engineer focused on building scalable systems and solving real-world pr
 
 ---
 
-## 🧠 Engineering Focus
 
-* Designing scalable web applications
-* Building end-to-end systems
-* Applying AI to automate workflows
 * Writing clean, maintainable, and efficient code
 * Problem solving using Data Structures & Algorithms
 
@@ -18,7 +14,7 @@ Software Engineer focused on building scalable systems and solving real-world pr
 
 ### Languages
 
-Python • JavaScript • C • C++ • SQL
+Python • JavaScript • C  • SQL
 
 ### Frontend
 
@@ -26,38 +22,27 @@ HTML5 • CSS3 • React.js • Tailwind CSS • Bootstrap
 
 ### Backend
 
-Node.js • Express.js • Django • Flask • REST APIs
+Node.js 
 
 ### Databases
-
-MongoDB • MySQL • PostgreSQL
+ MySQL 
 
 ### AI / ML
 
-NumPy • Pandas • Scikit-learn • TensorFlow (Basics) • NLP
+NumPy • Pandas • Scikit-learn • TensorFlow (Basics) 
 
 ### Tools
 
-Git • GitHub • Linux • VS Code • Postman • Docker (Basics)
+Git • GitHub • Linux • VS Code • Docker (Basics)
 
 ---
 
-## 🏗️ Engineering Work
 
-* Full Stack Web Applications
-* RESTful API Design
-* AI-powered Automation Tools
-* Data Processing Pipelines
-* Scalable Backend Systems
-
----
 
 ## 🧩 Problem Solving
 
 * Data Structures & Algorithms
 * System Design Fundamentals
-* Optimization & Performance Tuning
-* Debugging Complex Systems
 
 ---
 
